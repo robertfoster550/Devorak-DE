@@ -13,4 +13,4 @@ Alt + Ctrl + u = ü
 Alt + Ctrl + Shift + u = Ü  
 Alt + Ctrl + s = ß  
 
-Thanks to WhileBlackGoose (u/WhiteBlackGoose on Reddit) for the inspiration to share. See their Qwerty version here: https://github.com/WhiteBlackGoose/AmericanKeyboardLayoutForGerman/blob/v2.0.0/LICENSE
+Thanks to WhileBlackGoose (u/WhiteBlackGoose on Reddit) for the inspiration to share. See their Qwerty version here: https://github.com/WhiteBlackGoose/AmericanKeyboardLayoutForGerman
